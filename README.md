@@ -1,1 +1,1 @@
-# Room_Plan_JAVA
+# A simple Room Planning App by JAVA
